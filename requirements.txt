@@ -1,0 +1,6 @@
+googletrans==4.0.0rc1
+googletrans_py==4.0.0
+python-dotenv==1.0.1
+python-telegram-bot==21.1.1
+Requests==2.31.0
+SQLAlchemy==2.0.29
